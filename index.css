@@ -1,0 +1,55 @@
+body {
+    background-color: #113123;
+    font-family: 'Gilda Display';
+    overflow-x: hidden;
+}
+.max-width {
+    max-width: 1130px;
+    margin: auto;
+}
+.btn-success {
+    background-color: #113123;
+}
+.text-green {
+    color: #113123;
+}
+.text-yellow {
+    color: #a98c19;
+}
+.navbar {
+    background-color: #a98c19;
+}
+.navbar-nav .nav-link {
+    color: #fff ;
+}
+.top-navbar .nav-link {
+    content: '';
+    border-right: 1px solid #113123;
+}
+.nav-link:hover {
+    color: #113123;
+}
+.card {
+    margin: 20px 0;
+    background-color:#f3f3f3 ;
+    color: #4b4c4d;
+}
+.card-body {
+    padding: 0;
+}
+.check-availability select {
+    width: 60px;
+}
+.kinloch-hotel {
+    margin: 100px auto 0 auto;
+}
+.hotel-history {
+    font-size: 22px;
+    color: #747474;
+}
+.company-footer p, .company-footer a {
+    padding: 0 10px;
+}
+.form-control {
+    height: 30px;
+}
